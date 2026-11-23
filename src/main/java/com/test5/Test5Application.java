@@ -11,12 +11,18 @@ public class Test5Application {
 		int x =100;
 		boolean isPresent=false;
 		int y = 200;
-		char x = 'a';
-		int y = 200;
+		char x = 'a'; 
+	       	int y = 200;
 		double z = 10.3;
-		boolean isPresent=false;
+		            boolean isPresent=false;
 		float m = 10.3f;
 		char i = 'n';
+             int y = 200;
+           double z = 10.3f;
+           boolean isPresent=false;
+    float m = 10.3f;
+    char ch = 'x';
+    boolean isSub=true;
 		SpringApplication.run(Test5Application.class, args);
 		
 	}
